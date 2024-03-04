@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WindowsApp1\WindowsApp1\bin\Debug\RGen.exe.config
+C:\Users\Admin\Desktop\WindowsApp1\WindowsApp1\bin\Debug\RGen.exe
+C:\Users\Admin\Desktop\WindowsApp1\WindowsApp1\bin\Debug\RGen.pdb
+C:\Users\Admin\Desktop\WindowsApp1\WindowsApp1\bin\Debug\RGen.xml
+C:\Users\Admin\Desktop\WindowsApp1\WindowsApp1\obj\Debug\RGen.Form1.resources
+C:\Users\Admin\Desktop\WindowsApp1\WindowsApp1\obj\Debug\RGen.Resources.resources
+C:\Users\Admin\Desktop\WindowsApp1\WindowsApp1\obj\Debug\RGen.exe
+C:\Users\Admin\Desktop\WindowsApp1\WindowsApp1\obj\Debug\RGen.xml
+C:\Users\Admin\Desktop\WindowsApp1\WindowsApp1\obj\Debug\RGen.pdb
